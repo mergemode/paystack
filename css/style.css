@@ -1,0 +1,74 @@
+.right {
+    margin-left: 460px;
+}
+
+.left {
+    padding-left: 45px;
+    padding-bottom: 10px;
+}
+.paystack {
+    font-size: 23px;
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.hero_level {
+    padding-top: 230px;
+    padding-left: 170px;
+}
+.col-5 h1 {
+    font-size: 45px;
+    font-weight: bold;
+}
+.col-5 h5 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.upper {
+    font-size: 16px;
+    font-weight: bold;
+    padding: 6px 18px 8px 18px;
+    background-color: rgb(79, 172, 87);
+    border-color: rgb(79, 172, 87);
+    margin-right: 10px;
+}
+.lower {
+    font-size: 24px;
+    padding: 7px 15px;
+}
+
+.images {
+    margin-top: 90px;
+    padding-left: 140px;
+}
+.image {
+    float: left;
+}
+.images .image {
+    width: 90px;
+    height: 200px
+}
+.imaging {
+    margin-left: 10px;
+}
+.images .bolting {
+    height: 27px;
+}
+.images .mtning {
+    height: 25px;
+}
+.images .axaing {
+    width: 180px;
+    height: 380px;
+    padding-bottom: 352px;
+}
+.images .dominoing {
+    width: 180px;
+    height: 380px;
+    padding-bottom: 350px;
+}
+h6 {
+    padding-top: 50px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
